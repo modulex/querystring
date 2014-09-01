@@ -29,7 +29,7 @@ gulp.task('clean', function () {
 });
 
 gulp.task('build', ['lint'], function () {
-    return gulp.src('./lib/util.js')
+    return gulp.src('./lib/querystring.js')
         .pipe(modulex({
             modulex: {
                 packages: {

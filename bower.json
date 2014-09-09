@@ -10,6 +10,7 @@
         "modulex": "modulex#master"
     },
     "ignore": [
+        "**/*",
         "!build/**/*",
         "!lib/**/*",
         "!meta/**/*",

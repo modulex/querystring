@@ -10,7 +10,9 @@
         "modulex": "modulex#master"
     },
     "ignore": [
-        "**/*",
-        "!build/**/*"
+        "!build/**/*",
+        "!lib/**/*",
+        "!meta/**/*",
+        "!index.js"
     ]
 }

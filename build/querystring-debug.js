@@ -1,4 +1,9 @@
 /*
+Copyright 2014, modulex-querystring@1.0.3
+MIT Licensed
+build time: Thu, 16 Oct 2014 03:39:08 GMT
+*/
+/*
 combined modules:
 querystring
 */
@@ -29,7 +34,7 @@ function urlDecode(s) {
 }
 
 module.exports = {
-    version: '1.0.1',
+    version: '1.0.3',
 
     _debug: '@DEBUG@',
 

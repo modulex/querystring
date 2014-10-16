@@ -7,7 +7,7 @@
         "url": "http://github.com/kissyteam/querystring.git"
     },
     "dependencies": {
-        "modulex": "modulex#master"
+        "modulex": "*"
     },
     "ignore": [
         "**/*",
